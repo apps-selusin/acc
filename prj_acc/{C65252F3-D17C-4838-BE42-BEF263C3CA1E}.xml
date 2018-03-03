@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/03/03" author="e.World Technology Ltd.">
+  <project id="{C65252F3-D17C-4838-BE42-BEF263C3CA1E}" file="" name="prj_acc" product="PHPMaker" version="13.0" datetime="2018/03/03 07:02:47" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="t01_mastnew" name="t01_mastnew" caption="Master" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t02_mastold" name="t02_mastold" caption="t 02 mastold" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t03_mastbak" name="t03_mastbak" caption="t 03 mastbak" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t04_transnew" name="t04_transnew" caption="t 04 transnew" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t05_transold" name="t05_transold" caption="t 05 transold" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t06_transbak" name="t06_transbak" caption="t 06 transbak" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t07_adj" name="t07_adj" caption="t 07 adj" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cf01_home_php" name="cf01_home.php" caption="Home" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
